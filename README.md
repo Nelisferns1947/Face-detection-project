@@ -30,7 +30,7 @@ Install all the prequisites
 ## Usage
 
 #### Running the program 
-Run the program file 'main.py' on the command line.
+Run the program file 'main.py' on the command line or on any Python IDE.
 ```sh
 $ python main.py
 ```
