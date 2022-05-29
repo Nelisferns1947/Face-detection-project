@@ -1,6 +1,6 @@
 <h1 align="center">Face and Yawn Detection</h1>
 
-> A simple facial and yawn detection system built with Python.
+> A simple facial and yawn detection system built with Python using OpenCV and dlib packages.
 
 ## Table of contents
 
