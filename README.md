@@ -30,7 +30,6 @@ Install all the prequisites
 ## Usage
 
 #### Running the program 
-Follow these steps to run the app in command line
 Run the program file 'main.py' on the command line.
 ```sh
 $ python main.py
